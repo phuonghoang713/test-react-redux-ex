@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+copy source from https://github.com/ducpv193/test-react-redux to learn
 ```
   npm install
   npm start
